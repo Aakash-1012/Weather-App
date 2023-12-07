@@ -1,6 +1,8 @@
 # Weather-App
 Simple Weather App using HTML, CSS, JavaScript and Openweathermap API
 
+https://aakash-weather-app.netlify.app/
+
 # Tech Stack:
 1. HTML
 2. CSS
