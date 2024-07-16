@@ -50,4 +50,4 @@ document
     }
   });
 
-weather.fetchWeather("Kolkata");
+weather.fetchWeather("Jharkhand");
